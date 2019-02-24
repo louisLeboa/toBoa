@@ -12,3 +12,5 @@ fungi_data.columns
 
 print("hello")
 print("bye")
+
+print("my oh my")
